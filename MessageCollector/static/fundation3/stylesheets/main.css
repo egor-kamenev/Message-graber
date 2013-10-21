@@ -1,0 +1,60 @@
+
+html body{
+    height: 800px;
+}
+
+#header h5{
+    margin-top: -18px;
+}
+
+#app{
+    height: 100%;
+}
+
+#data{
+    height: 100%;
+}
+
+
+ul.message{
+    list-style-type: none;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.message-info{
+    text-align: right;
+}
+
+.message-text{
+    text-align: left;
+}
+
+
+#messages-block{
+    height: 500px;
+}
+
+
+
+
+
+.selected{
+    background-color: #1e90ff;
+}
+
+.panel{
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+.panel.select:hover{
+    background-color: green;
+}
+
+.green{
+    background-color: green;
+}
+
+
